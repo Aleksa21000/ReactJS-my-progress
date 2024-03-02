@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Some blog about Herbs","image":"https://cdn.firstcry.com/education/2022/11/08135018/Herbs-and-Spices-Names-in-English.jpg","date":"2024-03-02","description":"All kind of healthy herbs is in this blog post...","id":"9c9f099b-8eb6-4ee6-b764-97805fe3f9ec"},{"title":"New bike 2024","image":"https://bd.gaadicdn.com/processedimages/ola-electric/ola-electric-bike/source/ola-electric-bike64e8a7ee0b4a1.jpg","date":"2024-03-02","description":"Awesome bike new tech!","id":"2cab15e6-3706-44ed-b41d-39c0b0881ecc"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
